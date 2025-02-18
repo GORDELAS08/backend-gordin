@@ -1,0 +1,20 @@
+{
+  "name": "backend-gordin",
+  "version": "1.0.0",
+  "description": "servidor de estudo para turma-B do 3ro de 2025",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "nod"
+  ],
+  "author": "Joseph Arthur Reis dos Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
